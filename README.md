@@ -34,7 +34,9 @@ _Full Time - 1Y_
 **Venturus**<br/>
 _DevOps Developer_ | _Apr-2022 to Aug-2022_ <br/>
 _Full Time - 3m_
+<br/><br/><br/>
 <img align="left" width="100" height="100" src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/d1147c8eb95e3f717d4b21797e10ca7bf117e915/assets/qburst.jpeg">
+<br>
 **Lenovo LTDA**<br/>
 _DevOps Developer_ | _Nov-2018 to Apr-2022_ <br/>
 _Full Time - 3.7Y_
