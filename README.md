@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/aaa8ca2e197ad1491031b672e549a93e3a37de32/assets/banner.png)](https://in.linkedin.com/in/kathirvel-swamy)
+[![MasterHead](https://github.com/lbombassei/lbombassei/blob/main/banner.png)](https://www.linkedin.com/in/leonardo-garcia-bombassei-0b2160156/)
 
 <h1 align="center">Hi 👋, I'm Leonardo Bombassei
   <br/>
