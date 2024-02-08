@@ -21,7 +21,7 @@
 
 ## Experience
 
-<img align="left" width="100" height="100" src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/d1147c8eb95e3f717d4b21797e10ca7bf117e915/assets/qburst.jpeg">
+<img align="left" width="100" height="100" src="https://github.com/lbombassei/lbombassei/blob/main/doubleit.jpeg">
 
 **DoubleIT Technology** <br/>
 _React Developer_ | _Apr-2023 to Current_ <br/>
@@ -29,13 +29,13 @@ _Full Time - 1Y_
 <br/><br/><br/>
 <img align="right" alt="coding" width="400" src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/e94c0042fe919ce2f46ee4d342362a0d2b89010e/assets/coder.gif"/>
 <br/>
-<img align="left" width="100" height="100" src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/d1147c8eb95e3f717d4b21797e10ca7bf117e915/assets/infosys.jpeg">
+<img align="left" width="100" height="100" src="https://github.com/lbombassei/lbombassei/blob/main/venturus.jpeg">
 
 **Venturus**<br/>
 _DevOps Developer_ | _Apr-2022 to Aug-2022_ <br/>
 _Full Time - 3m_
 <br/><br/><br/>
-<img align="left" width="100" height="100" src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/d1147c8eb95e3f717d4b21797e10ca7bf117e915/assets/qburst.jpeg">
+<img align="left" width="100" height="100" src="https://github.com/lbombassei/lbombassei/blob/main/lenovo.png">
 <br>
 **Lenovo LTDA**<br/>
 _DevOps Developer_ | _Nov-2018 to Apr-2022_ <br/>
