@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Leonardo Bombassei
   <br/>
-<a href="mailto:kathirvel23@outlook.com">
+<a href="mailto:leonardogbombassei@gmail.com">
   <img src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/da6b97b48abbdd80050bd96dd4e727a283bfbfb7/assets/email.png" height="40" />
 </a>
 </h1>
